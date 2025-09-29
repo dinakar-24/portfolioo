@@ -48,7 +48,7 @@ export const metadata: Metadata = {
   authors: [
     {
       name: "Dinakar Reddy",
-      url: "https://dinu-portfolio-two.vercel.app",
+      url: "https://ai-portfolioo.vercel.app",
     },
   ],
   creator: "Dinakar Reddy",
@@ -67,7 +67,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://dinu-portfolio-two.vercel.app",
+    url: "https://ai-portfolioo.vercel.app",
     title:
       "Dinakar Reddy - Full-stack Developer & AI Engineer | Professional Portfolio",
     description:
@@ -75,7 +75,7 @@ export const metadata: Metadata = {
     siteName: "Dinakar Reddy Portfolio",
     images: [
       {
-        url: "",
+        url: "https://raw.githubusercontent.com/dinakar-24/ai-portfolio/main/public/preview.png",
         width: 1200,
         height: 630,
         alt: "Dinakar Reddy - Professional Portfolio with AI Chatbot",
@@ -92,7 +92,7 @@ export const metadata: Metadata = {
     site: "@dinakarreddy",
     images: [
       {
-        url: "",
+        url: "https://ai-portfolioo.vercel.app",
         alt: "Dinakar Reddy Professional Portfolio",
       },
     ],
@@ -109,7 +109,7 @@ export const metadata: Metadata = {
   },
   manifest: "/manifest.json",
   alternates: {
-    canonical: "https://dinu-portfolio-two.vercel.app",
+    canonical: "",
   },
   category: "technology",
   classification: "Portfolio Website",
@@ -131,7 +131,7 @@ export default function RootLayout({
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
         />
         <link rel="icon" href="/favicon.ico" sizes="any" />
-        <link rel="canonical" href="https://dinu-portfolio-two.vercel.app" />
+        <link rel="canonical" href="https://ai-portfolioo.vercel.app" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -140,7 +140,7 @@ export default function RootLayout({
               "@type": "Person",
               name: "Dinakar Reddy",
               jobTitle: "Full-stack Developer & AI Engineer",
-              url: "https://dinu-portfolio-two.vercel.app",
+              url: "https://ai-portfolioo.vercel.app",
               image: "profile.jpeg",
               sameAs: [
                 "https://github.com/dinakar-24",
