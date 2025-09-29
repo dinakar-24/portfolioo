@@ -232,16 +232,13 @@
       "links": [
         {
           "name": "Live Site",
-          "url": ""
+          "url": "https://ai-portfolioo.vercel.app"
         },
-        {
-          "name": "GitHub",
-          "url": ""
-        }
+      
       ],
       "images": [
         {
-          "src": "",
+          "src": "https://raw.githubusercontent.com/dinakar-24/ai-portfolio/main/public/preview.png",
           "alt": "Portfolio Homepage"
         }
       ]
