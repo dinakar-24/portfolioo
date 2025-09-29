@@ -234,11 +234,15 @@
           "name": "Live Site",
           "url": "https://ai-portfolioo.vercel.app"
         },
-      
+        {
+          "name": "GitHub",
+          "url": "https://github.com/dinakar-24/ai-portfolio"
+        }
+        
       ],
       "images": [
         {
-          "src": "https://raw.githubusercontent.com/dinakar-24/ai-portfolio/main/public/preview.png",
+          "src": "https://raw.githubusercontent.com/dinakar-24/portfolioo/main/public/preview.png",
           "alt": "Portfolio Homepage"
         }
       ]
@@ -262,10 +266,6 @@
         {
           "name": "Live Site",
           "url": "https://realtime-sudokuu.vercel.app"
-        },
-         {
-          "name": "GitHub",
-          
         }
       ],
       "images": [
